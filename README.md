@@ -1,14 +1,14 @@
-# Hi, I' Alex Hung
+# Hi, I'm Alex Hung
 
-I am a software engineer and leader with over 20 years of exp, spanning roles from system admin and dba to software development and management. I have worked with diverse enterprise systems and tech stacks, including Java, PHP, .NET, Node.js, Python, and Golang
+I am a software engineer and leader with over 20 years of experience, spanning roles from system administrator and database administrator to software development and management. I have worked with diverse enterprise systems and tech stacks, including Java, PHP, .NET, Node.js, Python, and Golang.
 
 This background provides a significant advantage in complex integration projects, allowing me to quickly identify root causes of issues and maintain an architectural mindset adaptable to a company's evolving needs.
 
 My notable achievements include successfully building products from 0 to 1+ at various companies and managing teams of 10–30 people.
 
-Contact: hunghit at gmail dot com
+**Contact:** <hunghit@gmail.com>
 
-## Experienced Industry
+## Industry Experience
 
  * **Banking & Fintech**: Core banking systems, e-wallets, payment gateways, lending platforms
  * **Travel Technology**: Airline reservation systems, hotel management, ticketing solutions
@@ -61,7 +61,7 @@ Contact: hunghit at gmail dot com
 
 <tr>
 <td align="center" width="130px" style="padding:5px;">
-<b>IDE</b>
+<b>Development Tools</b>
 </td>
 <td style="padding:5px;">
 
@@ -84,14 +84,6 @@ Contact: hunghit at gmail dot com
 • Copilot • OpenAI • Gemini • Stable Diffusion • Ollama • vLLM •
 </td>
 </tr>
-<tr>
-<td align="center" width="130px" style="padding:5px;">
-<b> </b>
-</td>
-<td style="padding:5px;">
-</td>
-</tr>
 
-</table> 
+</table>
 
-![Anurag's GitHub stats](https://github-readme-stats-five-black-60.vercel.app/api?username=hung1m&show_icons=true&theme=default) [![GitHub Streak](https://streak-stats.demolab.com?user=hung1m&theme=default)](https://git.io/streak-stats)
