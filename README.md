@@ -1,6 +1,6 @@
 # Hi, I' Alex Hung
 
-I am a full-stack software engineer and leader with over 20 years of exp, spanning roles from system admin and dba to software development and management. I have worked with diverse enterprise systems and tech stacks, including Java, PHP, .NET, Node.js, Python, and Golang
+I am a software engineer and leader with over 20 years of exp, spanning roles from system admin and dba to software development and management. I have worked with diverse enterprise systems and tech stacks, including Java, PHP, .NET, Node.js, Python, and Golang
 
 This background provides a significant advantage in complex integration projects, allowing me to quickly identify root causes of issues and maintain an architectural mindset adaptable to a company's evolving needs.
 
