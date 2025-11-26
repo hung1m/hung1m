@@ -1,23 +1,42 @@
-# Hi, I'm Alex Hung
+### Hi there, I'm Alex Hung Nguyen 👋
 
-I am a generalist software engineer and leader with over 20 years of experience, spanning roles from system administrator and database administrator to software development and management. I have worked with diverse enterprise systems and tech stacks, including Java, Node.js, Python, and Golang.
+**Principal Software Engineer | Technical Team Lead | Calgary, Canada 🇨🇦**
+*(Open Work Permit Holder - Available Immediately)*
 
-This background provides a significant advantage in complex integration projects, allowing me to quickly identify root causes of issues and maintain an architectural mindset adaptable to a company's evolving needs.
+I am a **hands-on technical leader** with over 20 years of experience traversing the full infrastructure-to-application spectrum—from System/DB Admin to Software Architect and Engineering Manager.
 
-My notable achievements include successfully building products from 0 to 1+ at various companies and managing teams of 10–30 people.
+I don't just design systems; I build them. My background allows me to bridge the gap between complex architectural vision and operational reality, identifying root causes quickly and adapting stacks to business evolution.
 
-**Contact:** <hunghit@gmail.com>
+#### 🚀 What I bring to the table:
+* **Complex System Integration:** Deep expertise in diverse integration patterns (ESB, Event-Driven, API Gateways) within **mission-critical Banking/Fintech environments**. I possess a sharp instinct for diagnosing architectural bottlenecks and architecting resilient, fail-safe solutions.
+* **Polyglot Engineering:** Fluent in **Java, Golang, Python, and Typescript/Node.js**. I don't follow hype; I pick the right tool for the job.
+* **0 → 1 Builder:** Successfully launched multiple products from scratch to revenue generation ($1M+), balancing speed-to-market with long-term maintainability.
+* **Scalability Mindset:** Experience in modernizing legacy monoliths into distributed microservices on AWS or apply a cloud-agnostic approach.
+* **Leadership:** Experience managing teams of 10–30 engineers while staying technically active (code reviews, RFCs, core implementation).
 
-## Industry Experience
+---
 
- * **Banking & Fintech**: Core banking systems, e-wallets, payment gateways, lending platforms
- * **Travel Technology**: Airline reservation systems, hotel management, ticketing solutions
- * **Retail & Commerce**: Point-of-sale (POS), ERP systems, e-commerce platforms
- * **Agri-Fintech**: Trade finance solutions for agricultural commodity trading
- * **AI/ML**: SAS solutions, underbanked credit scoring, eKYC, LLM integrations (chatbots, analysis, summarization, recommendations)
+#### 🛠 Tech Stack & Domain Expertise
 
+**Languages & Core:**
+`Java` `Golang` `Python` `TypeScript/Node.js` `SQL` `Microservices`
 
-## 🛠️ Tech Stack
+**Industry Experience:**
+* **Banking & Fintech:** Core banking modernization, Payment Gateways, Digital Lending, e-Wallets.
+* **Travel Tech:** High-concurrency Airline Reservation Systems (ARS), Hotel Inventory.
+* **Retail & Commerce:** POS, ERP integrations, large-scale E-commerce platforms.
+* **Agri-Fintech:** Supply chain finance & commodity trading solutions.
+* **AI/ML:** LLM Integrations (RAG/Chatbots), Credit Scoring models, eKYC pipelines.
+
+---
+
+**Get in touch:** [hunghit@gmail.com](mailto:hunghit@gmail.com)
+**Location:** Calgary, Alberta
+**LinkedIn:** [linkedin.com/in/alex-hungnguyentech](https://www.linkedin.com/in/alex-hungnguyentech)
+
+---
+
+### Stack layers
 
 <table>
 <tr><td align="center" width="130px" style="padding:5px; vertical-align:middle;">
@@ -86,5 +105,7 @@ My notable achievements include successfully building products from 0 to 1+ at v
 </tr>
 
 </table>
+
+### Github contribution (not include private gitlab)
 
 ![Top Langs](https://github-readme-stats-five-black-60.vercel.app/api/top-langs/?username=hung1m&layout=compact)
