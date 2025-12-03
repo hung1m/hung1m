@@ -1,6 +1,6 @@
 ## Hi there, I'm Alex Hung Nguyen
 
-**Principal Software Engineer | Technical Team Lead | 🇨🇦**
+**Principal Software Engineer | Technical Team Lead | Fintech system architect 🇨🇦**
 
 I am a **hands-on technical leader** with over 20 years of experience traversing the full infrastructure-to-application spectrum—from System/DB Admin to Software Architect and Engineering Manager.
 
