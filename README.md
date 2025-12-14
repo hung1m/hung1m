@@ -18,7 +18,7 @@ I don't just design systems; I build them. My background allows me to bridge the
 ### 🛠 Tech Stack & Domain Expertise
 
 **Languages & Core:**
-`Java` `Golang` `Python` `TypeScript/Node.js` `SQL` `Microservices`
+`Golang` `TypeScript/Node.js` `Java` `Python` `SQL` `Microservices`
 
 **Industry Experience:**
 * **Banking & Fintech:** Core banking modernization, Payment Gateways, Digital Lending, e-Wallets.
