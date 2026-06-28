@@ -16,6 +16,7 @@ Most of my work sits at the intersection of:
 - System evolution (monolith → modular → services, when needed)
 - Integration-heavy systems (payments, trading, workflows)
 - Technical decision-making under real business constraints
+- Frontend: good UX sense to work with designer.
 
 ### Languages & tools I use regularly
 `Golang` · `TypeScript / Node.js` · `Java` · `SQL`
@@ -24,8 +25,9 @@ Most of my work sits at the intersection of:
 
 ### Domain experience
 - Fintech & banking platforms (payments, lending, onboarding)
-- High-concurrency transaction systems
-- B2B and internal platforms supporting real operations
+- OTA Travel tech (airline & hotel)
+- Retails system & ecom.
+- Various digital solutions, B2B and internal platforms supporting real operations
 
 I'm based in Calgary, Canada.  
 I tend to work best in roles with clear ownership, trust, and room for technical judgment.
