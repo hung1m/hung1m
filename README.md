@@ -2,7 +2,7 @@
 
 I work on backend systems that have outgrown their original shape.
 
-I'm a Staff / Principal-level software engineer with a long background in building and evolving systems in fintech, banking, and B2B environments — especially when early architectural decisions start creating friction in delivery or scale.
+I'm a Software engineer with a long background in building and evolving systems in fintech, banking, and B2B environments — especially when early architectural decisions start creating friction in delivery or scale.
 
 I stay hands-on where it matters (design, reviews, critical paths), but I care more about system structure, boundaries, and long-term evolution than volume-driven coding.
 
