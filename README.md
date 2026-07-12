@@ -31,6 +31,8 @@ Most of my work sits at the intersection of:
 
 I'm based in Calgary, Canada.  
 I tend to work best in roles with clear ownership, trust, and room for technical judgment.
+I help companies build new technology capabilities. Over time, I found myself being asked to help launch new products, support business initiatives, and grow engineering teams.
+What I enjoy most is working at the intersection of technology, product development and business strategy—helping organizations turn ideas into products, teams and operational capabilities
 
 📫 hunghit@gmail.com  
 🔗 linkedin.com/in/alex-hungnguyentech
